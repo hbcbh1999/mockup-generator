@@ -1,6 +1,6 @@
 # Mockup Generator
 
-Mockup Generator is an OSx app built with Electron/AngularJS that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. 
+Mockup Generator is a macOS app built with Electron/AngularJS that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.
 
 Device images are from http://facebook.design/devices
 
