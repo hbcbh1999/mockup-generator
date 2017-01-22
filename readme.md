@@ -4,6 +4,8 @@ Mockup Generator is an OSx app built with Electron/AngularJS that sits in your m
 
 Device images are from http://facebook.design/devices
 
+If you wish to just install the app, the file is available for download here https://github.com/andypotts/mockup-generator/raw/build/Mockup.zip
+
 ## Screenshots
 ![App Screenshot](https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png)
 
@@ -26,3 +28,4 @@ Generated mockup
 - run `npm install`
 - run `npm run build` to build the app.
 - run `npm start` to run app from CLI without building the app
+- If you wish to just install the app, the file is available for download here https://github.com/andypotts/mockup-generator/raw/build/Mockup.zip
