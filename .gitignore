@@ -1,0 +1,6 @@
+.DS_Store
+build/
+.tags*
+node_modules/
+img/screenshots/
+*.log

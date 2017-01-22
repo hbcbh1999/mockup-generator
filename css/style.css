@@ -1,0 +1,26 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    position: relative;
+    background-color: #e3e3e5;
+    -webkit-user-select: none;
+    padding: 10px 5px;
+}
+
+input:focus, *:focus {
+    outline: none;
+}
+
+.select {
+  margin-top: 5px;
+}
