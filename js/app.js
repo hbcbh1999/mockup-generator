@@ -2,9 +2,6 @@ var app = angular.module('mockupGenerator', []);
 
 app.controller('mainCtrl', function ($scope) {
 
-console.log ();
-
-
   var images = require('images');
   var webshot = require('webshot');
   var username = require('username');
